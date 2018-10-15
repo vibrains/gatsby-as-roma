@@ -20,7 +20,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     ```sh
     # install the Gatsby CLI globally
     npm install -g gatsby-cli
-    get an API KEY from https://www.football-data.org/	
+    get an API KEY from https://www.football-data.org/
+    create client_secrets.json file in project root
     ```
 
 2.  **Create a Gatsby site.**
